@@ -8,7 +8,7 @@ import static org.assertj.core.api.Assertions.*;
 public class HelloTest {
 
     @Test
-    public void test(){
-        assertThat("1").isEqualTo("1");
+    public void test() {
+
     }
 }
