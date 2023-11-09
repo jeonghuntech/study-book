@@ -1,0 +1,21 @@
+plugins {
+    id 'java'
+}
+
+group = 'study'
+version = '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.6.0'
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine'
+     testImplementation 'org.assertj:assertj-core:3.11.1'
+    // implementation으로 해도 가능합니다. compile과 차이점은 추후 포스팅할예정.
+}
+
+test {
+    useJUnitPlatform()
+}
