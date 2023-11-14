@@ -12,5 +12,5 @@ Effective_Java 3/E
 [3장 - 모든 객체의 공통 메서드](file%2Fchapter3%2Fchapter3.md)
 -----------------------
 
-[4장 - 모든 객체의 공통 메서드](file%2Fchapter4%2Fchapter4.md)
+[4장 - 클래스와 인터페이스](file%2Fchapter4%2Fchapter4.md)
 -----------------------
