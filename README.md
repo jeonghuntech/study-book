@@ -2,4 +2,4 @@
 
 ## 기록
 
-- (진행중) Effective Java
+- (진행중) [Effective Java](effectie-java%2FREADME.md)
