@@ -2,4 +2,4 @@
 
 ## 기록
 
-- (진행중) [EFFECTIVE_JAVA.md](effectie-java%2FEFFECTIVE_JAVA.md)
+- (진행중) [Effective Java](effectie-java%2FEFFECTIVE_JAVA.md)
