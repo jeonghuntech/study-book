@@ -14,3 +14,5 @@ Effective_Java 3/E
 
 [4장 - 클래스와 인터페이스](file%2Fchapter4%2Fchapter4.md)
 -----------------------
+
+# 이후 작업 내용은 노션으로 관리
